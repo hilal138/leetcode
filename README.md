@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/hilal138/leetcode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/hilal138/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1514-path-with-maximum-probability](https://github.com/hilal138/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/hilal138/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Union-Find
