@@ -2,8 +2,6 @@ class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
         int n = nums.size();
-        int count=0;
-        for(auto ele : nums) if(ele==0) count++;
         vector<int>helper;
         helper=nums;
         for(int i=0;i<n;i++){
