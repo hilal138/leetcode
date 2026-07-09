@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/hilal138/leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/hilal138/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/hilal138/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/hilal138/leetcode/tree/master/0268-missing-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/hilal138/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/hilal138/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/hilal138/leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
