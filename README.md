@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/hilal138/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1584-min-cost-to-connect-all-points](https://github.com/hilal138/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hilal138/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2643-row-with-maximum-ones](https://github.com/hilal138/leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Union-Find
 |  |
 | ------- |
@@ -128,4 +129,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hilal138/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/hilal138/leetcode/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
