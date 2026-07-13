@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hilal138/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1514-path-with-maximum-probability](https://github.com/hilal138/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1539-kth-missing-positive-number](https://github.com/hilal138/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1572-matrix-diagonal-sum](https://github.com/hilal138/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/hilal138/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hilal138/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/hilal138/leetcode/tree/master/2643-row-with-maximum-ones) |
@@ -136,5 +137,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/hilal138/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hilal138/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hilal138/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/hilal138/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2643-row-with-maximum-ones](https://github.com/hilal138/leetcode/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
