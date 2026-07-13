@@ -147,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/hilal138/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hilal138/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2643-row-with-maximum-ones](https://github.com/hilal138/leetcode/tree/master/2643-row-with-maximum-ones) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/hilal138/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
