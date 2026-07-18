@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/hilal138/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/hilal138/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/hilal138/leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/hilal138/leetcode/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/hilal138/leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Binary Search
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/hilal138/leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hilal138/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/hilal138/leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/hilal138/leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hilal138/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/hilal138/leetcode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hilal138/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
