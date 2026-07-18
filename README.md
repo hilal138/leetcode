@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/hilal138/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/hilal138/leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/hilal138/leetcode/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/hilal138/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hilal138/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1514-path-with-maximum-probability](https://github.com/hilal138/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1539-kth-missing-positive-number](https://github.com/hilal138/leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/hilal138/leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hilal138/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/hilal138/leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/hilal138/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hilal138/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/hilal138/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
