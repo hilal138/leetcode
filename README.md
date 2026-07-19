@@ -209,8 +209,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/hilal138/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/hilal138/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/hilal138/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/hilal138/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hilal138/leetcode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/hilal138/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
