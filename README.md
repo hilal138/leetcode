@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hilal138/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hilal138/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hilal138/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/hilal138/leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hilal138/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/hilal138/leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/hilal138/leetcode/tree/master/0867-transpose-matrix) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hilal138/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hilal138/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hilal138/leetcode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/hilal138/leetcode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/hilal138/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/hilal138/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/hilal138/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/hilal138/leetcode/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hilal138/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/hilal138/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hilal138/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -223,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hilal138/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/hilal138/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
