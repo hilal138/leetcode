@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hilal138/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hilal138/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hilal138/leetcode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/hilal138/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/hilal138/leetcode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/hilal138/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hilal138/leetcode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/hilal138/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hilal138/leetcode/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/hilal138/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hilal138/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/hilal138/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hilal138/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -258,5 +261,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/hilal138/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/hilal138/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/hilal138/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
