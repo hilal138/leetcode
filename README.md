@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/hilal138/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/hilal138/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/hilal138/leetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/hilal138/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hilal138/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/hilal138/leetcode/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/hilal138/leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hilal138/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/hilal138/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hilal138/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/hilal138/leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/hilal138/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/hilal138/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/hilal138/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/hilal138/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/hilal138/leetcode/tree/master/1922-count-good-numbers) |
 ## Stack
