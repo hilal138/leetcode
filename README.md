@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/hilal138/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/hilal138/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/hilal138/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/hilal138/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hilal138/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hilal138/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hilal138/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/hilal138/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/hilal138/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/hilal138/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/hilal138/leetcode/tree/master/0231-power-of-two) |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/hilal138/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/hilal138/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hilal138/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/hilal138/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
