@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hilal138/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/hilal138/leetcode/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/hilal138/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2595-number-of-even-and-odd-bits](https://github.com/hilal138/leetcode/tree/master/2595-number-of-even-and-odd-bits) |
 ## Sorting
 |  |
 | ------- |
